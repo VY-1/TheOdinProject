@@ -1,0 +1,13 @@
+#first,#second{
+    font-family: 'Halvetica', 'Times New Roman', serif;
+    font-size: 28px;
+}
+
+#first{
+    background-color: black;
+    color: white;
+}
+
+#second{
+    background-color: yellow;
+}
